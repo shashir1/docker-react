@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          WOW CONGRATULATIONS YOU ADDED TO FEATURE BRANCH2
+          WOW CONGRATULATIONS GOOD JOB
         </a>
       </header>
     </div>
